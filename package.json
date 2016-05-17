@@ -1,0 +1,19 @@
+{
+  "name": "pipeline-test-external-image",
+  "version": "1.0.0",
+  "description": "A node sample app used by fabric8 CD pipeline to test",
+  "main": "example.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabric8io/pipeline-test-external-image.git"
+  },
+  "author": "James Rawlings",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/fabric8io/pipeline-test-external-image#readme"
+}
